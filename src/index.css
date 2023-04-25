@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.mynav ul {
+    display: flex;
+    margin: 10px;
+    gap: 20px;
+
+}
